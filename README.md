@@ -1,141 +1,159 @@
-# 👋 Hi, I'm Islam Ebeid
+<h1 align="center">Hi 👋 I'm Islam Ebeid</h1>
 
-🚀 Tech Entrepreneur | AI & Digital Platforms Builder  
-💻 Software & Systems Developer | Business Consultant  
+<h3 align="center">
+Tech Entrepreneur • AI & Digital Platforms Builder • Software Engineer
+</h3>
 
-Founder and technology leader with 15+ years of experience in **software development, digital platforms, artificial intelligence, and media technology**.
+<p align="center">
+Founder of <b>Onliner</b> • <b>Mzazik</b> • <b>Media Red Line</b><br>
+Building SaaS platforms, AI systems, automation tools and digital media technologies.
+</p>
 
-I focus on building **scalable SaaS systems, AI tools, automation platforms, and modern web & mobile applications** that help businesses and creators grow in the digital economy.
+---
+
+## 🚀 About Me
+
+I'm **Islam Ebeid**, a technology entrepreneur and software developer with more than **15 years of experience** in digital platforms, media technologies, artificial intelligence, and automation systems.
+
+I build **scalable web platforms, mobile applications, AI-powered systems, and SaaS products** that help businesses and creators grow in the digital economy.
+
+My work sits at the intersection of **technology, digital media, and business innovation.**
 
 ---
 
 # 🧠 Core Expertise
 
-• Artificial Intelligence (AI)  
-• Automation Systems  
-• Web Development  
-• Mobile Application Development  
-• SaaS Platforms  
-• Cloud & API Integrations  
-• Media & Streaming Platforms  
-• Digital Marketing Technology  
+🤖 Artificial Intelligence  
+⚙️ Automation Systems  
+🌐 Web Development  
+📱 Mobile Application Development  
+☁️ Cloud & API Integrations  
+📊 Data Analytics  
+🎧 Media & Streaming Platforms  
+🚀 SaaS Platforms  
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=php" height="40"/>
+
+</p>
+
+---
+
+# 🧰 Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,laravel,django,docker,aws,gcp,mysql,flutter" />
+
+</p>
+
+---
+
+# 📱 Mobile Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift" />
+
+</p>
 
 ---
 
 # 🏢 Companies & Projects
 
-## Onliner LLC
-Technology company developing **AI platforms, automation systems, and digital tools** for businesses.
+## 🚀 Onliner LLC
+Technology company building **AI platforms, marketing technologies and automation tools**.
 
-Projects:
+Projects
 
 • Onliner Digital Agency  
-• Onliner AI Platform  
+• Onliner AI  
 • Onliner Chatbot Platform  
 
 🌐 https://onliner.agency  
-🌐 https://onlinr.me  
+🌐 https://onlinr.me
 
 ---
 
-## Mzazik Production & Distribution
-Digital music production and global distribution platform serving artists across the **MENA region**.
+## 🎧 Mzazik Production & Distribution
 
-Services include:
-
-• Global music distribution  
-• Artist marketing  
-• Digital rights management  
-• YouTube channel management  
+Music production and digital distribution company helping artists distribute music globally.
 
 🌐 https://mzazik.com
 
 ---
 
-## Media Red Line™
-Technology and digital development company building **web platforms, software systems, and mobile applications**.
+## 💻 Media Red Line
 
-Services:
-
-• Web platforms & SaaS systems  
-• Mobile applications (Android & iOS)  
-• AI-powered tools  
-• Business automation solutions  
-• Cloud applications  
-
----
-
-# 💻 Technology Stack
-
-### Frontend
-React • Next.js • Vue • HTML5 • CSS3 • JavaScript • TypeScript
-
-### Backend
-Node.js • Python • PHP • Laravel • Django
-
-### Mobile
-Flutter • React Native • Swift • Kotlin
-
-### Cloud & Infrastructure
-AWS • Google Cloud • Docker • APIs
-
-### AI & Automation
-Machine Learning APIs • AI Automation Systems • Intelligent Chatbots
-
----
-
-# 🌍 Developer Profiles
-
-Google Developer Profile  
-https://g.dev/islamebeid
-
-Google Developers  
-https://developers.google.com/profile/u/islamebeid
-
-GitHub  
-https://github.com/islamEbeidOfficial
+Technology company specialized in **web platforms, SaaS products, mobile apps, and AI solutions**.
 
 ---
 
 # 🏆 Achievements
 
 🏅 YouTube Silver Creator Award  
+🌍 Active member of the global developer community
 
-🌍 Active contributor in the global developer community.
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=islamEbeidOfficial&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=islamEbeidOfficial&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌍 Developer Profiles
+
+Google Developer  
+https://g.dev/islamebeid
+
+Google Developers  
+https://developers.google.com/profile/u/islamebeid
 
 ---
 
 # 🌐 Connect With Me
 
-Official Website  
+🌍 Website  
 https://islamebeid.com
 
-LinkedIn  
-https://linkedin.com/in/Islamebeidofficial
+💼 LinkedIn  
+https://linkedin.com/in/islamebeidofficial
 
-Facebook  
-https://facebook.com/Islamebeidofficial
+📺 YouTube  
+https://youtube.com/@islamebeidofficial
 
-Instagram  
-https://instagram.com/Islamebeidofficial
+📷 Instagram  
+https://instagram.com/islamebeidofficial
 
-YouTube  
-https://youtube.com/@Islamebeidofficial
+🎵 TikTok  
+https://tiktok.com/@islamebeidofficial
 
-TikTok  
-https://tiktok.com/@Islamebeidofficial
+🐦 X  
+https://x.com/islamebeidac
 
-X  
-https://x.com/Islamebeidac
-
-Email  
+📧 Email  
 info@islamebeid.com
 
 ---
 
 # 🎯 Mission
 
-Helping individuals and businesses leverage **AI, automation, and digital platforms** to build smarter systems, grow faster, and succeed in the digital world.
+Helping people and businesses leverage **AI, automation, and digital platforms** to build smarter systems and grow faster in the digital world.
 
 ---
 
