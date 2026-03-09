@@ -1,103 +1,142 @@
-# Hi 👋 I'm Islam Ebeid
+# 👋 Hi, I'm Islam Ebeid
 
-🚀 Tech Entrepreneur | Software Engineer | SaaS & AI Platform Builder  
+🚀 Tech Entrepreneur | AI & Digital Platforms Builder  
+💻 Software & Systems Developer | Business Consultant  
 
-Founder of **Media Red Line** & **Mzazik**  
-Building scalable digital platforms, automation systems, and AI-powered products for the modern digital economy.
+Founder and technology leader with 15+ years of experience in **software development, digital platforms, artificial intelligence, and media technology**.
 
----
-
-## 👨‍💻 About Me
-
-I'm a technology entrepreneur and software engineer with more than **15 years of experience** building digital platforms, media technologies, and scalable SaaS products.
-
-My work focuses on combining **software engineering, artificial intelligence, and automation** to help businesses and creators launch powerful digital solutions.
-
-🔹 Building Web Platforms  
-🔹 Developing AI-powered systems  
-🔹 Creating SaaS & Automation tools  
-🔹 Media & Streaming Technologies  
+I focus on building **scalable SaaS systems, AI tools, automation platforms, and modern web & mobile applications** that help businesses and creators grow in the digital economy.
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Core Expertise
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![PHP](https://img.shields.io/badge/PHP-000?logo=php)
-
-### Technologies
-![NodeJS](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![Cloud](https://img.shields.io/badge/Cloud-000?logo=googlecloud)
-
-### Focus Areas
-- SaaS Platforms
-- Artificial Intelligence
-- Automation Systems
-- Web Platforms
-- Media & Streaming Technology
-- Cloud & API Integrations
+• Artificial Intelligence (AI)  
+• Automation Systems  
+• Web Development  
+• Mobile Application Development  
+• SaaS Platforms  
+• Cloud & API Integrations  
+• Media & Streaming Platforms  
+• Digital Marketing Technology  
 
 ---
 
-## 🚀 Featured Projects
+# 🏢 Companies & Projects
 
-### Media Red Line
-Technology company focused on building web platforms and custom software solutions.
+## Onliner LLC
+Technology company developing **AI platforms, automation systems, and digital tools** for businesses.
 
-🔗 https://mediaredline.com
+Projects:
 
----
+• Onliner Digital Agency  
+• Onliner AI Platform  
+• Onliner Chatbot Platform  
 
-### Mzazik
-Digital music production and distribution platform supporting independent artists worldwide.
-
-🔗 https://mzazik.com
-
----
-
-### Personal Website
-My portfolio and technology projects.
-
-🔗 https://islamebeid.com
+🌐 https://onliner.agency  
+🌐 https://onlinr.me  
 
 ---
 
-## 🏆 Achievements
+## Mzazik Production & Distribution
+Digital music production and global distribution platform serving artists across the **MENA region**.
+
+Services include:
+
+• Global music distribution  
+• Artist marketing  
+• Digital rights management  
+• YouTube channel management  
+
+🌐 https://mzazik.com
+
+---
+
+## Media Red Line™
+Technology and digital development company building **web platforms, software systems, and mobile applications**.
+
+Services:
+
+• Web platforms & SaaS systems  
+• Mobile applications (Android & iOS)  
+• AI-powered tools  
+• Business automation solutions  
+• Cloud applications  
+
+---
+
+# 💻 Technology Stack
+
+### Frontend
+React • Next.js • Vue • HTML5 • CSS3 • JavaScript • TypeScript
+
+### Backend
+Node.js • Python • PHP • Laravel • Django
+
+### Mobile
+Flutter • React Native • Swift • Kotlin
+
+### Cloud & Infrastructure
+AWS • Google Cloud • Docker • APIs
+
+### AI & Automation
+Machine Learning APIs • AI Automation Systems • Intelligent Chatbots
+
+---
+
+# 🌍 Developer Profiles
+
+Google Developer Profile  
+https://g.dev/islamebeid
+
+Google Developers  
+https://developers.google.com/profile/u/islamebeid
+
+GitHub  
+https://github.com/islamEbeidOfficial
+
+---
+
+# 🏆 Achievements
 
 🏅 YouTube Silver Creator Award  
 
-🎓 Bachelor's Degree – Computer Science  
-Cairo University
-
-🌍 Active contributor in the global developer and technology ecosystem.
+🌍 Active contributor in the global developer community.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-🌍 Website  
+Official Website  
 https://islamebeid.com
 
-💼 LinkedIn  
-https://linkedin.com/in/islamebeidofficial
+LinkedIn  
+https://linkedin.com/in/Islamebeidofficial
 
-🏢 Companies  
-https://mediaredline.com  
-https://mzazik.com
+Facebook  
+https://facebook.com/Islamebeidofficial
+
+Instagram  
+https://instagram.com/Islamebeidofficial
+
+YouTube  
+https://youtube.com/@Islamebeidofficial
+
+TikTok  
+https://tiktok.com/@Islamebeidofficial
+
+X  
+https://x.com/Islamebeidac
+
+Email  
+info@islamebeid.com
 
 ---
 
-## 📈 GitHub Activity
+# 🎯 Mission
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=islamEbeidOfficial&show_icons=true&theme=dark)
+Helping individuals and businesses leverage **AI, automation, and digital platforms** to build smarter systems, grow faster, and succeed in the digital world.
 
 ---
 
-## 🚀 Always Building
-
-I’m always working on new **AI tools, SaaS platforms, and digital media technologies**.
-
-⭐ Follow my GitHub profile to stay updated with my latest projects and innovations.
+⭐ Follow my GitHub profile to stay updated with my latest **AI tools, SaaS platforms, and digital innovations.**
