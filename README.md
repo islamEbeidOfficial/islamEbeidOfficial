@@ -1,23 +1,32 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Islam%20Ebeid&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Islam Ebeid</h1>
 
-<h3 align="center">
-Tech Entrepreneur • AI & Digital Platforms Builder • Software Engineer
-</h3>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Entrepreneur;AI+Platforms+Builder;SaaS+Developer;Software+Engineer;Digital+Media+Innovator&center=true&width=500&height=45">
+
+</p>
 
 <p align="center">
-Founder of <b>Onliner</b> • <b>Mzazik</b> • <b>Media Red Line</b><br>
-Building SaaS platforms, AI systems, automation tools and digital media technologies.
+Founder of <b>Onliner</b> • <b>Mzazik</b> • <b>Media Red Line</b>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm **Islam Ebeid**, a technology entrepreneur and software developer with more than **15 years of experience** in digital platforms, media technologies, artificial intelligence, and automation systems.
+Technology entrepreneur and software engineer with **15+ years of experience** in:
 
-I build **scalable web platforms, mobile applications, AI-powered systems, and SaaS products** that help businesses and creators grow in the digital economy.
+• Software Engineering  
+• Artificial Intelligence  
+• Digital Platforms  
+• Media Technologies  
+• Automation Systems  
 
-My work sits at the intersection of **technology, digital media, and business innovation.**
+I build **scalable SaaS platforms, AI systems, mobile apps, and digital infrastructure** for businesses and creators.
 
 ---
 
@@ -26,9 +35,9 @@ My work sits at the intersection of **technology, digital media, and business in
 🤖 Artificial Intelligence  
 ⚙️ Automation Systems  
 🌐 Web Development  
-📱 Mobile Application Development  
-☁️ Cloud & API Integrations  
-📊 Data Analytics  
+📱 Mobile Applications  
+☁️ Cloud Architecture  
+📊 Data & Analytics  
 🎧 Media & Streaming Platforms  
 🚀 SaaS Platforms  
 
@@ -38,10 +47,7 @@ My work sits at the intersection of **technology, digital media, and business in
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-<img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=php" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php"/>
 
 </p>
 
@@ -51,7 +57,7 @@ My work sits at the intersection of **technology, digital media, and business in
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,laravel,django,docker,aws,gcp,mysql,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,laravel,django,docker,aws,gcp,mysql"/>
 
 </p>
 
@@ -61,46 +67,91 @@ My work sits at the intersection of **technology, digital media, and business in
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift" />
+<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift"/>
 
 </p>
 
 ---
 
-# 🏢 Companies & Projects
+# 🤖 AI Projects
 
-## 🚀 Onliner LLC
-Technology company building **AI platforms, marketing technologies and automation tools**.
+### Onliner AI
+AI platform helping businesses and creators discover and use AI tools.
 
-Projects
+Features
 
-• Onliner Digital Agency  
-• Onliner AI  
-• Onliner Chatbot Platform  
+• AI tools library  
+• Professional prompts  
+• AI tutorials  
+• AI technology updates  
 
-🌐 https://onliner.agency  
+🌐 https://onliner.agency
+
+---
+
+### Onliner Chatbot Platform
+
+AI automation platform for social media and business communication.
+
+Supports:
+
+Facebook  
+Instagram  
+WhatsApp  
+TikTok  
+YouTube  
+LinkedIn  
+X  
+Google Business Profile  
+
 🌐 https://onlinr.me
 
 ---
 
-## 🎧 Mzazik Production & Distribution
+# 🚀 SaaS Platforms
 
-Music production and digital distribution company helping artists distribute music globally.
+### Onliner Digital Agency
+
+Digital marketing technology platform providing:
+
+• Social media marketing  
+• Advertising campaigns  
+• Digital business development  
+• Content management  
+• Marketing automation  
+
+🌐 https://onliner.agency
+
+---
+
+# 🎧 Music Tech
+
+### Mzazik Production & Distribution
+
+Digital music production and distribution platform serving artists in the **MENA region**.
+
+Services:
+
+• Global music distribution  
+• Artist marketing  
+• YouTube channel management  
+• Digital rights management  
 
 🌐 https://mzazik.com
 
 ---
 
-## 💻 Media Red Line
+# 💻 Technology Company
 
-Technology company specialized in **web platforms, SaaS products, mobile apps, and AI solutions**.
+### Media Red Line
 
----
+Technology and digital development company building:
 
-# 🏆 Achievements
-
-🏅 YouTube Silver Creator Award  
-🌍 Active member of the global developer community
+• Web platforms  
+• SaaS products  
+• Mobile applications  
+• AI tools  
+• Business automation systems  
 
 ---
 
@@ -116,6 +167,16 @@ Technology company specialized in **web platforms, SaaS products, mobile apps, a
 
 ---
 
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=islamEbeidOfficial&color=blue&style=flat"/>
+
+</p>
+
+---
+
 # 🌍 Developer Profiles
 
 Google Developer  
@@ -123,6 +184,9 @@ https://g.dev/islamebeid
 
 Google Developers  
 https://developers.google.com/profile/u/islamebeid
+
+GitHub  
+https://github.com/islamEbeidOfficial
 
 ---
 
@@ -158,3 +222,7 @@ Helping people and businesses leverage **AI, automation, and digital platforms**
 ---
 
 ⭐ Follow my GitHub profile to stay updated with my latest **AI tools, SaaS platforms, and digital innovations.**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
