@@ -227,6 +227,3 @@ Helping people and businesses leverage **AI, automation, and digital platforms**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
 
-## 🐍 Contribution Snake
-
-![snake](https://github.com/islamEbeidOfficial/islamEbeidOfficial/blob/output/github-contribution-grid-snake.svg)
