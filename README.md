@@ -2,29 +2,42 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Islam%20Ebeid&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Islam Ebeid</h1>
+<h1 align="center">👋 Hi, I'm Islam Ebeid</h1>
+<h3 align="center">
+AI Platforms Architect • SaaS Systems Builder • Tech Entrepreneur
+</h3>
+
+<p align="center">
+Software Engineer
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Platforms+Architect;SaaS+Systems+Builder;Tech+Entrepreneur;Software+Engineer;Digital+Media+Innovator&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-Founder of <b>Onliner</b> • <b>Mzazik</b> • <b>Media Red Line</b>
+Co-Founder of <b>Onliner LLC </b> • <b>Mzazik Production</b> • <b>Media Red Line</b>
+</p>
+
+<p align="center">
+Building AI platforms, SaaS ecosystems, and scalable digital infrastructure.
 </p>
 
 ---
 
 # 🚀 About Me
 
-Tech entrepreneur and software engineer with **15+ years of experience** building:
+Tech entrepreneur and software architect with **15+ years of experience** building scalable digital systems.
 
-• AI platforms  
-• SaaS systems  
-• Mobile applications  
-• Web platforms  
-• Media technology systems  
+I specialize in designing and developing:
 
-I focus on building **scalable digital infrastructure, automation systems, and AI-powered platforms** for businesses and creators.
+• AI-powered platforms  
+• SaaS ecosystems  
+• Scalable web and mobile applications  
+• Cloud-native systems  
+• Media and streaming infrastructures  
+
+My work focuses on building **modern, scalable, and intelligent platforms** that empower businesses, creators, and digital ecosystems.
 
 ---
 
@@ -48,12 +61,12 @@ Automation platform for social media messaging and customer interaction.
 
 🤖 Artificial Intelligence Systems  
 ⚙️ Automation Platforms  
-🌐 Web Development  
-📱 Mobile Applications  
-☁️ Cloud Architecture  
-📊 Data & Analytics  
-🎧 Media & Streaming Platforms  
-🚀 SaaS Platforms  
+🌐 Web Platform Engineering  
+📱 Mobile Application Development  
+☁️ Cloud Infrastructure Architecture  
+📊 Data Engineering & Analytics  
+🎧 Media & Streaming Technologies  
+🚀 SaaS Platform Development
 
 ---
 
@@ -95,7 +108,7 @@ Automation platform for social media messaging and customer interaction.
 # 📱 Mobile Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,reactnative"/>
 </p>
 
 ---
@@ -136,21 +149,19 @@ Automation platform for social media messaging and customer interaction.
 
 ### 🌐 Onliner
 
-Technology company building digital platforms, AI tools, and SaaS systems for businesses and creators.
+Technology company focused on building **AI tools, SaaS platforms, and digital infrastructure** for businesses and creators.
 
 Products
 
 • Onliner AI  
 • Onliner Chatbot Platform  
-• Digital Marketing Systems  
-
-🌐 https://onliner.agency
+• Marketing Automation Systems
 
 ---
 
 ### 🎧 Mzazik Production & Distribution
 
-Digital music production and global distribution platform serving artists in the **MENA region**.
+Digital music production and distribution platform helping artists publish and monetize their music globally.
 
 Services
 
@@ -161,17 +172,43 @@ Services
 
 🌐 https://mzazik.com
 
+
 ---
 
 ### 💻 Media Red Line
 
-Technology and digital development company building:
+Technology and digital development company building modern:
 
-• Web platforms  
-• SaaS products  
+• SaaS platforms  
+• Web systems  
 • Mobile applications  
-• AI tools  
-• Business automation systems  
+• AI solutions  
+• Automation tools
+
+---
+
+# 🧠 System Architectures
+
+I design and build scalable digital infrastructures including:
+
+• AI ecosystems  
+• SaaS platforms  
+• Streaming systems  
+• Cloud-native applications  
+• Automation engines  
+• Enterprise digital platforms
+
+---
+
+# 🚀 Main Platforms
+
+| Platform | Description |
+|--------|-------------|
+| **IslamOS** | AI-powered digital ecosystem combining tools, services, and automation |
+| **Shaabiyat Live** | Media streaming platform for digital broadcasting |
+| **Onliner AI** | AI tools discovery and learning platform |
+| **Onliner Chatbot Platform** | Automation platform for messaging and customer engagement |
+| **Mzazik Distribution** | Music distribution and artist promotion platform |
 
 ---
 
