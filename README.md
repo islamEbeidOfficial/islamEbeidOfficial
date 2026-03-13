@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Entrepreneur;AI+Platforms+Builder;SaaS+Developer;Software+Engineer;Digital+Media+Innovator&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Platforms+Architect;SaaS+Systems+Builder;Tech+Entrepreneur;Software+Engineer;Digital+Media+Innovator&center=true&width=500&height=45">
 
 </p>
 
@@ -18,22 +18,38 @@ Founder of <b>Onliner</b> • <b>Mzazik</b> • <b>Media Red Line</b>
 
 # 🚀 About Me
 
-Technology entrepreneur and software engineer with **15+ years of experience** in:
+Tech entrepreneur and software engineer with **15+ years of experience** building:
 
-• Software Engineering  
-• Artificial Intelligence  
-• Digital Platforms  
-• Media Technologies  
-• Automation Systems  
+• AI platforms  
+• SaaS systems  
+• Mobile applications  
+• Web platforms  
+• Media technology systems  
 
-I build **scalable SaaS platforms, AI systems, mobile apps, and digital infrastructure** for businesses and creators.
+I focus on building **scalable digital infrastructure, automation systems, and AI-powered platforms** for businesses and creators.
+
+---
+
+# 🔥 Currently Building
+
+🚀 **IslamOS**  
+Modular AI platform with tools, services marketplace, automation engine, and knowledge hub.
+
+📡 **Shaabiyat Live**  
+Digital streaming platform for media broadcasting and live channels.
+
+🤖 **Onliner AI**  
+AI ecosystem helping creators and businesses discover and use AI tools.
+
+⚙️ **Onliner Chatbot Platform**  
+Automation platform for social media messaging and customer interaction.
 
 ---
 
 # 🧠 Core Expertise
 
-🤖 Artificial Intelligence  
-⚙️ Automation Systems  
+🤖 Artificial Intelligence Systems  
+⚙️ Automation Platforms  
 🌐 Web Development  
 📱 Mobile Applications  
 ☁️ Cloud Architecture  
@@ -73,77 +89,38 @@ I build **scalable SaaS platforms, AI systems, mobile apps, and digital infrastr
 
 ---
 
-# 🤖 AI Projects
+# 🏢 Companies & Platforms
 
-### Onliner AI
-AI platform helping businesses and creators discover and use AI tools.
+### 🌐 Onliner
 
-Features
+Technology company building digital platforms, AI tools, and SaaS systems for businesses and creators.
 
-• AI tools library  
-• Professional prompts  
-• AI tutorials  
-• AI technology updates  
+Products
 
-🌐 https://onliner.agency
-
----
-
-### Onliner Chatbot Platform
-
-AI automation platform for social media and business communication.
-
-Supports:
-
-Facebook  
-Instagram  
-WhatsApp  
-TikTok  
-YouTube  
-LinkedIn  
-X  
-Google Business Profile  
-
-🌐 https://onlinr.me
-
----
-
-# 🚀 SaaS Platforms
-
-### Onliner Digital Agency
-
-Digital marketing technology platform providing:
-
-• Social media marketing  
-• Advertising campaigns  
-• Digital business development  
-• Content management  
-• Marketing automation  
+• Onliner AI  
+• Onliner Chatbot Platform  
+• Digital Marketing Systems  
 
 🌐 https://onliner.agency
 
 ---
 
-# 🎧 Music Tech
+### 🎧 Mzazik Production & Distribution
 
-### Mzazik Production & Distribution
+Digital music production and global distribution platform serving artists in the **MENA region**.
 
-Digital music production and distribution platform serving artists in the **MENA region**.
+Services
 
-Services:
-
-• Global music distribution  
-• Artist marketing  
-• YouTube channel management  
+• Music distribution  
+• Artist promotion  
 • Digital rights management  
+• YouTube channel management  
 
 🌐 https://mzazik.com
 
 ---
 
-# 💻 Technology Company
-
-### Media Red Line
+### 💻 Media Red Line
 
 Technology and digital development company building:
 
@@ -152,6 +129,25 @@ Technology and digital development company building:
 • Mobile applications  
 • AI tools  
 • Business automation systems  
+
+---
+
+# ⭐ Featured Projects
+
+🚀 **IslamOS Platform**  
+Modular AI ecosystem combining tools, services, knowledge, and automation.
+
+📡 **Shaabiyat Live**  
+Streaming infrastructure for digital media and broadcasting.
+
+🤖 **Onliner AI**  
+AI tools discovery and learning platform.
+
+⚙️ **Onliner Chatbot Platform**  
+Multi-channel AI chatbot system for businesses.
+
+🎧 **Mzazik Distribution**  
+Digital music distribution and marketing system.
 
 ---
 
@@ -221,9 +217,8 @@ Helping people and businesses leverage **AI, automation, and digital platforms**
 
 ---
 
-⭐ Follow my GitHub profile to stay updated with my latest **AI tools, SaaS platforms, and digital innovations.**
+⭐ Follow my GitHub to stay updated with my latest **AI tools, SaaS platforms, and technology projects.**
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
-
