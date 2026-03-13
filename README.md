@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Islam Ebeid</h1>
+
 <h3 align="center">
 AI Platforms Architect • SaaS Systems Builder • Tech Entrepreneur
 </h3>
@@ -16,7 +17,7 @@ Software Engineer
 </p>
 
 <p align="center">
-Co-Founder of <b>Onliner LLC </b> • <b>Mzazik Production</b> • <b>Media Red Line</b>
+Co-Founder of <b>Onliner LLC</b> • <b>Mzazik Production</b> • <b>Media Red Line</b>
 </p>
 
 <p align="center">
@@ -27,7 +28,7 @@ Building AI platforms, SaaS ecosystems, and scalable digital infrastructure.
 
 # 🚀 About Me
 
-Tech entrepreneur and software architect with **15+ years of experience** building scalable digital systems.
+Tech entrepreneur and software architect with **15+ years of experience** building scalable digital systems and modern technology platforms.
 
 I specialize in designing and developing:
 
@@ -37,23 +38,23 @@ I specialize in designing and developing:
 • Cloud-native systems  
 • Media and streaming infrastructures  
 
-My work focuses on building **modern, scalable, and intelligent platforms** that empower businesses, creators, and digital ecosystems.
+My work focuses on building **modern, scalable, and intelligent digital platforms** that empower businesses, creators, and digital ecosystems.
 
 ---
 
 # 🔥 Currently Building
 
 🚀 **IslamOS**  
-Modular AI platform with tools, services marketplace, automation engine, and knowledge hub.
+Modular AI ecosystem combining tools, services marketplace, automation engine, and knowledge hub.
 
 📡 **Shaabiyat Live**  
-Digital streaming platform for media broadcasting and live channels.
+Digital media streaming platform for live broadcasting and entertainment channels.
 
 🤖 **Onliner AI**  
-AI ecosystem helping creators and businesses discover and use AI tools.
+AI ecosystem helping creators and businesses discover and use AI tools effectively.
 
 ⚙️ **Onliner Chatbot Platform**  
-Automation platform for social media messaging and customer interaction.
+Automation platform enabling businesses to manage messaging, AI chatbots, and customer interaction.
 
 ---
 
@@ -108,7 +109,7 @@ Automation platform for social media messaging and customer interaction.
 # 📱 Mobile Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,reactnative"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,kotlin,swift"/>
 </p>
 
 ---
@@ -172,12 +173,11 @@ Services
 
 🌐 https://mzazik.com
 
-
 ---
 
 ### 💻 Media Red Line
 
-Technology and digital development company building modern:
+Technology and digital development company focused on building modern:
 
 • SaaS platforms  
 • Web systems  
