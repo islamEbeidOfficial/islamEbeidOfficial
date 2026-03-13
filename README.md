@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋 I'm Islam Ebeid</h1>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Platforms+Architect;SaaS+Systems+Builder;Tech+Entrepreneur;Software+Engineer;Digital+Media+Innovator&center=true&width=500&height=45">
-
 </p>
 
 <p align="center">
@@ -59,22 +57,37 @@ Automation platform for social media messaging and customer interaction.
 
 ---
 
+# 🧩 Architecture Focus
+
+• AI Systems Architecture  
+• SaaS Platform Engineering  
+• Cloud Infrastructure Design  
+• Automation & Workflow Systems  
+• Media Streaming Platforms  
+• Scalable Backend Systems  
+
+---
+
 # 💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php"/>
-
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,go,rust,java,c,cpp,csharp"/>
 </p>
 
 ---
 
-# 🧰 Technologies & Tools
+# 🎨 Frontend Development
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,html,css,sass"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,laravel,django,docker,aws,gcp,mysql"/>
+---
 
+# ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,flask"/>
 </p>
 
 ---
@@ -82,9 +95,39 @@ Automation platform for social media messaging and customer interaction.
 # 📱 Mobile Development
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift"/>
+---
 
+# 🤖 AI / Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+</p>
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,firebase,nginx,linux"/>
+</p>
+
+---
+
+# 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite"/>
+</p>
+
+---
+
+# 🛠 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio"/>
 </p>
 
 ---
@@ -163,6 +206,26 @@ Digital music distribution and marketing system.
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=islamEbeidOfficial&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
 # 👀 Profile Visitors
 
 <p align="center">
@@ -189,25 +252,25 @@ https://github.com/islamEbeidOfficial
 # 🌐 Connect With Me
 
 🌍 Website  
-https://islamebeid.com
+https://islamebeid.com  
 
 💼 LinkedIn  
-https://linkedin.com/in/islamebeidofficial
+https://linkedin.com/in/islamebeidofficial  
 
 📺 YouTube  
-https://youtube.com/@islamebeidofficial
+https://youtube.com/@islamebeidofficial  
 
 📷 Instagram  
-https://instagram.com/islamebeidofficial
+https://instagram.com/islamebeidofficial  
 
 🎵 TikTok  
-https://tiktok.com/@islamebeidofficial
+https://tiktok.com/@islamebeidofficial  
 
 🐦 X  
-https://x.com/islamebeidac
+https://x.com/islamebeidac  
 
 📧 Email  
-info@islamebeid.com
+info@islamebeid.com  
 
 ---
 
